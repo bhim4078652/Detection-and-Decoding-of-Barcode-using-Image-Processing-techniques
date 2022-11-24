@@ -1,1 +1,1 @@
-# detection-and-decoding-of-barcode-using-image-processing-techniques
+# Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques
