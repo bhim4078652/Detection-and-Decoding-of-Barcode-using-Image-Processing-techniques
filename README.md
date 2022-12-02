@@ -44,8 +44,21 @@
 - Now give this result as Argument to cv2.drawContours( ) method and we finally get the required result where the red rectangle covers the barcode region of the input   image.
 
 
-
-
+# Results:-
+## 1) original image :
+  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/original%20image.png)
+  
+## 2) gradient in x direction :
+  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/grad%20in%20x%20direction.png)
+  
+## 3) gradient in y direction :
+  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/grad%20in%20y%20direction.png)
+  
+## 4) after threshold and morphological operations :
+ ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/after%20threshold%20and%20morphological%20operations.png)
+ 
+## 5) final detected image :
+ ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/final%20detetced%20image.png)
 
 
 
