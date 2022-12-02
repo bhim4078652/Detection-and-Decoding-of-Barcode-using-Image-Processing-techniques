@@ -64,6 +64,15 @@
  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/pr3.jpg)
 
 
+# Reference(s) :-
+- Mr.B.Nagaraju, N.Venkatesh, G.Dhanalakshmi, N.Sai.Chand, D.Haritha. (2022) QR Code Generator and Detector using Python. 
+- Adeel U., Yang S., McCann, J. A. (2014). Self-Optimizing Citizen-centric Mobile Urban Sensing Systems. Proceedings of the 11th International Conference on Autonomic   computing (pp.161-167). 
+-  Badra M., and Badra R. B. (2016). A Lightweight Security Protocol for NFC-based Mobile Payments. Procedia Computer Science, 83(Ant), 705–711. 
+- opencv.org.
+- geeks for geeks.
+
+
+
 
 
 
