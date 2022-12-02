@@ -52,7 +52,7 @@
   ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/grad%20in%20x%20direction.png)
   
 ## 3) gradient in y direction :
-  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/grad%20in%20y%20direction.png)
+  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/gard%20in%20y%20direction.png)
   
 ## 4) after threshold and morphological operations :
  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/after%20threshold%20and%20morphological%20operations.png)
