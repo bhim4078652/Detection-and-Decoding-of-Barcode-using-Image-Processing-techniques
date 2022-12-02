@@ -60,6 +60,7 @@
 ## 5) final detected image :
  ![App Screenshot](https://github.com/bhim4078652/Detection-and-Decoding-of-Barcode-using-Image-Processing-techniques/blob/main/final%20detetced%20image.png)
 
+## 6) decoded results :
 
 
 
